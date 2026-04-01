@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# freepik-clone
+Freepik-inspired web platform for browsing and downloading design assets like vectors, images, and icons. Features include user authentication, search, category filtering, and a responsive UI. Built with a focus on performance, scalability, and clean user experience.
+>>>>>>> d392f26eff4ca61c57783aba029718d4cd01dc5d
